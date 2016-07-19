@@ -16,4 +16,7 @@ working upwards, any space (x,y) can be the top-left of a square as large as 1+t
 
 w = 1+min(x,y,z)
 
-find the space with the largest number and that number is the size of the largest square that can fit.
+Find the space with the largest number and that number is the size of the largest square that can fit.
+
+Problem and sample inputs:
+https://www.reddit.com/r/dailyprogrammer/comments/4nga90/20160610_challenge_270_hard_alien_invasion/
